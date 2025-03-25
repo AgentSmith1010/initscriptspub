@@ -1,1 +1,2 @@
-# this is a future place for storing public config file.
+ssh_allow_from: 168.93.37.160
+openvpn_allow_from: 168.93.37.160
