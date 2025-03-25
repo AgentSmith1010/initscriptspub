@@ -1,7 +1,4 @@
-# Comments are allowed. This file to be edited by hand only!!
-# multiple entries are allowed, when read by indiavm, all existing entries
-# will be deleted first and ONLY entries in this file will be added.
+#process.indiavm.openvpn.ipchanges variable in the config file must be 1 for this file to get processed.
 
-azure_indiavm_ssh_allow_from: 168.93.37.160 EOL
 azure_indiavm_openvpn_allow_from: 168.93.37.160 EOL
 azure_indiavm_openvpn_allow_from: 4.2.2.2 EOL
