@@ -1,2 +1,2 @@
-ssh_allow_from: 168.93.37.160
-openvpn_allow_from: 168.93.37.160
+azure_indiavm_ssh_allow_from: 168.93.37.160
+azure_indiavm_openvpn_allow_from: 168.93.37.160
