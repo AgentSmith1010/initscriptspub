@@ -1,4 +1,5 @@
 #process.indiavm.openvpn.ipchanges variable in the config file must be 1 for this file to get processed.
-
+# also, note that whatever IPs are here are the ONLY once that access will be open from, all old ips
+# will be deleted.
 azure_indiavm_openvpn_allow_from: 168.93.37.160 EOL
 azure_indiavm_openvpn_allow_from: 4.2.2.2 EOL
