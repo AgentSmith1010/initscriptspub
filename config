@@ -1,3 +1,6 @@
 # Comments are allowed. This file to be edited by hand only!!
+# follow the format, multiple entries allowed.
+# duplicate not allowed.
 azure_indiavm_ssh_allow_from: 168.93.37.160 EOL
 azure_indiavm_openvpn_allow_from: 168.93.37.160 EOL
+azure_indiavm_openvpn_allow_from: 4.2.2.2 EOL
