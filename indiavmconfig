@@ -1,4 +1,1 @@
-#process.indiavm.openvpn.ipchanges variable in the config file must be 1 for this file to get processed.
 
-azure_indiavm_openvpn_allow_from: 135.26.94.236 EOL
-azure_indiavm_openvpn_allow_from: 54.160.160.204 EOL
